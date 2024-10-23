@@ -1,6 +1,8 @@
 # Password Generator
 
-<img src="./images/passwd.png" alt="App Screenshot" width="400"/>
+<div align="center">
+  <img src="./images/passwd.png" alt="App Screenshot" width="400"/>
+</div>
 
 Um aplicativo simples e intuitivo para gerar senhas seguras e personalizáveis. Desenvolvido para Android utilizando o [Android SDK](https://developer.android.com/studio).
 
