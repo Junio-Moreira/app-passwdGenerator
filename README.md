@@ -29,4 +29,4 @@ Um aplicativo simples e intuitivo para gerar senhas seguras e personalizáveis. 
 1. Clone este repositório:
 
    ```bash
-   [git clone https://github.com/seu-usuario/password-generator.git]
+   git clone https://github.com/seu-usuario/password-generator.git
