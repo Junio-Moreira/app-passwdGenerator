@@ -1,8 +1,8 @@
 <h1 align="center">Password Generator 🔐</h1>
 
-## Projeto 🎯 
+## Project 🎯 
 
-Este projeto consiste em uma aplicação Android que implementa um gerador de senhas seguras e personalizáveis. A aplicação permite que o usuário crie senhas com diferentes critérios de segurança, garantindo a proteção de suas informações pessoais. Com uma interface simples e intuitiva, o usuário pode facilmente definir as características da senha desejada e copiá-la para a área de transferência com um clique.
+This project consists of an Android application that implements a secure and customizable password generator. The application allows users to create passwords with different security criteria, ensuring the protection of their personal information. With a simple and intuitive interface, users can easily define the desired characteristics of the password and copy it to the clipboard with a single click.
 
 ## Layout 🎨 
 
@@ -10,10 +10,10 @@ Este projeto consiste em uma aplicação Android que implementa um gerador de se
   <img src="./images/passwd.png" alt="App Screenshot" width="400"/>
 </div>
 
-## Tecnologias Utilizadas 🤖🍏
+## Technologies Used 🤖🍏
 
-- **Linguagem de Programação:** Kotlin
-- **Ambiente de Desenvolvimento:** Android Studio
+- **Programming Language:** Kotlin
+- **Development Environment:** Android Studio
 
 ## Code Author 🧑‍💻
 
