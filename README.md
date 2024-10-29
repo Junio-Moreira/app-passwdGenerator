@@ -12,7 +12,7 @@ Este projeto consiste em uma aplicação Android que implementa um gerador de se
 
 ## Tecnologias Utilizadas 🧑‍💻
 
-- **Linguagem de Programação: ** Kotlin
-- **Ambiente de Desenvolvimento: ** Android Studio
+- **Linguagem de Programação:**  Kotlin
+- **Ambiente de Desenvolvimento:** Android Studio
 
 
