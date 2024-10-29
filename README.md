@@ -10,11 +10,14 @@ Este projeto consiste em uma aplicação Android que implementa um gerador de se
   <img src="./images/passwd.png" alt="App Screenshot" width="400"/>
 </div>
 
-## Tecnologias Utilizadas 🧑‍💻
+## Tecnologias Utilizadas 🤖🍏
 
-- **Linguagem de Programação:**  Kotlin
+- **Linguagem de Programação:** Kotlin
 - **Ambiente de Desenvolvimento:** Android Studio
 
-##
+## Code Author 🧑‍💻
 
-Code by Dev. Júnio Moreira.
+```kotlin
+fun main() {
+    println("Code by Dev. Júnio Moreira!")
+}
