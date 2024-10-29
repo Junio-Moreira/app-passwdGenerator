@@ -17,8 +17,8 @@ This project consists of an Android application that implements a secure and cus
 
 ## Code Author 🧑‍💻
 
+```kotlin
 fun main() {
     println("👨‍💻 Code by Júnio Moreira!")
     println("Welcome to the Password Generator!")
 }
-
