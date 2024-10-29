@@ -1,4 +1,4 @@
-# Password Generator 🔐
+<h1 align="center">Password Generator 🔐</h1>
 
 ## Projeto 🎯 
 
@@ -15,4 +15,6 @@ Este projeto consiste em uma aplicação Android que implementa um gerador de se
 - **Linguagem de Programação:**  Kotlin
 - **Ambiente de Desenvolvimento:** Android Studio
 
+##
 
+Code by Dev. Júnio Moreira.
