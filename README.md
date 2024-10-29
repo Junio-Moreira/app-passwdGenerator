@@ -15,10 +15,10 @@ This project consists of an Android application that implements a secure and cus
 - **Programming Language:** Kotlin
 - **Development Environment:** Android Studio
 
-## Code Author 🧑‍💻
+## Code Author 💻👨‍💻
 
 ```kotlin
 fun main() {
-    println("👨‍💻 Code by Júnio Moreira!")
+    println("Code by Júnio Moreira!")
     println("Welcome to the Password Generator!")
 }
