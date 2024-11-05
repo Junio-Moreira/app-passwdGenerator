@@ -348,12 +348,12 @@
                 android:layout_height="wrap_content"
                 android:layout_marginTop="24dp"
                 android:text="@string/generate_password"
-                android:textColor="@color/colorPrimaryLight2"
+                android:textColor="@color/colorSecundaryYellow"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintHorizontal_bias="0.3"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@+id/lengthLabelTextView"
-                app:strokeColor="@color/colorPrimaryLight2" />
+                app:strokeColor="@color/colorSecundaryYellow" />
 
             <ImageButton
                 android:id="@+id/copyButton"
@@ -371,7 +371,7 @@
                 app:layout_constraintDimensionRatio="1:1"
                 app:layout_constraintStart_toEndOf="@+id/generateButton"
                 app:layout_constraintTop_toTopOf="@+id/generateButton"
-                app:tint="@color/colorPrimaryLight2" />
+                app:tint="@color/colorSecundaryYellow" />
 
         </androidx.constraintlayout.widget.ConstraintLayout>
     </androidx.cardview.widget.CardView>
