@@ -2,7 +2,7 @@
 
 ## Project 🎯 
 
-This project is an Android application that generates secure and customizable passwords. Users can set security criteria and copy the generated password to the clipboard with a single click.
+Exercise 03 - Mobile Device Programming: This Android app generates secure, customizable passwords. Users can set security criteria and copy the generated password to the clipboard with a single click.
 
 ## Layout 🎨 
 
