@@ -2,7 +2,7 @@
 
 ## Project 🎯 
 
-This project consists of an Android application that implements a secure and customizable password generator. The application allows users to create passwords with different security criteria, ensuring the protection of their personal information. With a simple and intuitive interface, users can easily define the desired characteristics of the password and copy it to the clipboard with a single click.
+This project is an Android application that generates secure and customizable passwords. Users can set security criteria and copy the generated password to the clipboard with a single click, all within a simple and intuitive interface.
 
 ## Layout 🎨 
 
