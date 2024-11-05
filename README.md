@@ -1,31 +1,24 @@
-# Password Generator
+<h1 align="center">Password Generator 🔐</h1>
 
-![App Screenshot](./images/passwd.png)
+## Project 🎯 
 
+This project is an Android application that generates secure and customizable passwords. Users can set security criteria and copy the generated password to the clipboard with a single click, all within a simple and intuitive interface.
 
-Um aplicativo simples e intuitivo para gerar senhas seguras e personalizáveis. Desenvolvido para Android utilizando o [Android SDK](https://developer.android.com/studio).
+## Layout 🎨 
 
-## Funcionalidades
+<div align="center">
+  <img src="./images/passwd.png" alt="App Screenshot" width="400"/>
+</div>
 
-- Gerar senhas com diferentes critérios:
-  - Incluir letras maiúsculas
-  - Incluir números
-  - Incluir caracteres especiais
-- Definir o comprimento da senha (até 30 caracteres)
-- Copiar a senha gerada para a área de transferência com um clique
+## Technologies Used 🤖🍏
 
-## Tecnologias Utilizadas
+- **Programming Language:** Kotlin
+- **Development Environment:** Android Studio
 
-- **Linguagem**: Kotlin
-- **Bibliotecas**:
-  - AndroidX
-  - ConstraintLayout para interfaces responsivas
-  - DataBinding para vinculação de dados
-  - Material Components para botões e outros componentes UI
+## Code Author 💻👨‍💻
 
-## Instalação
-
-1. Clone este repositório:
-
-   ```bash
-   git clone https://github.com/seu-usuario/password-generator.git
+```kotlin
+fun main() {
+    println("Code by Júnio Moreira!")
+    println("Welcome to the Password Generator!")
+}

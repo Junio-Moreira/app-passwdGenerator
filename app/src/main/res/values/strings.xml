@@ -1,12 +1,15 @@
 <resources>
 <!--    <string name="app_name">PasswordGenerator</string>-->
     <string name="app_name">Password Generator</string>
-    <string name="title">Password Generator</string>
-    <string name="title2">ADS | IFTM Patrocínio 🚀💻</string>
+    <string name="title">PASSWORD </string>
+    <string name="title2">Generator </string>
     <string name="length_label">Length: %1$d</string>
     <string name="use_uppercase">Use uppercase letters</string>
     <string name="use_numbers">Use numbers</string>
     <string name="use_special_chars">Use special characters</string>
+    <string name="exclude_similar_chars">Exclude similar characters</string>
     <string name="generate_password">Generate Password</string>
     <string name="password_copied">Password copied to clipboard</string>
+    <string name="lean_no_ads_logo">Logotipo Lean sem anúncios</string>
+
 </resources>
